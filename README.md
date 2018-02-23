@@ -4,7 +4,7 @@ The **"Programming Basics"** course provides the initial programming skills requ
 
  1. - [x] First Steps of Coding
  2. - [x] Simple Calculations
- 3. - [ ] Simple Conditional Statements
+ 3. - [x] Simple Conditional Statements
  4. - [ ] Complex Conditional Statements
  5. - [ ] Simple Loops
  6. - [ ] Drawing Figures with Loops
