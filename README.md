@@ -7,6 +7,6 @@ The **"Programming Basics"** course provides the initial programming skills requ
  3. - [x] Simple Conditional Statements
  4. - [x] Complex Conditional Statements
  5. - [x] Simple Loops
- 6. - [ ] Drawing Figures with Loops
+ 6. - [x] Drawing Figures with Loops
  7. - [ ] Advanced Loops
 - [ ] Exam Preparation
