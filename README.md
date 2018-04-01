@@ -9,4 +9,4 @@ The **"Programming Basics"** course provides the initial programming skills requ
  5. - [x] Simple Loops
  6. - [x] Drawing Figures with Loops
  7. - [x] Advanced Loops
-- [ ] Exam Preparation
+- [x] Exam Preparation
